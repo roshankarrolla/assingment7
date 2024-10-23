@@ -1,0 +1,38 @@
+/* Home.css */
+.hero-section {
+    background-image: url('https://via.placeholder.com/1600x600'); /* You can replace this with your own image URL */
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .hero-text h1 {
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  
+  .hero-text p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .navbar {
+    padding: 1rem;
+  }
+  
+  .container h2 {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .container p {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
